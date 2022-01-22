@@ -3,7 +3,7 @@
 
 int main(){
 	
-	printf("\tPrograma de gerenciamento de academias V.0.0.1\n");
+	printf("\tPrograma V.0.0.1\n");
 	printf ("\tAutor: Ricardo Santos");
 	
 	return 0;
