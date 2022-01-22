@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+	
+	printf("\tPrograma de gerenciamento de academias V.0.0.1\n");
+	printf ("\tAutor: Ricardo Santos");
+	
+	return 0;
+}
