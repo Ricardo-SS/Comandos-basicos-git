@@ -13,7 +13,7 @@ Iniciar o diretorio dentro da pasta selecionada no windows 11, abrir a pasta > c
 
 - Comando para verificar os status dos arquivos
 
-	git staus	(verifica o status dos arquivos)
+	git status	(verifica o status dos arquivos)
 
 -------------------------------------------------------------
 - Criando versão do codigo e adicionando arquivo
