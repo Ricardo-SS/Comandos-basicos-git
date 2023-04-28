@@ -19,28 +19,41 @@ Iniciar o diretorio dentro da pasta selecionada no windows 11, abrir a pasta > c
 #   TECLE ENTER DEPOIS DE CADA COMANDO
 
 - Na janela de comando que abrir digite
-
     ---	
         git init   
 
 (inicia o diretorio no git)
 
 - Comando para verificar os status dos arquivos
-
 	---
         git status
 
-(verifica o status dos arquivos)
-
 - Criando versão do codigo e adicionando arquivo
-
 	---
         git add "NomeDoArquivoEsuaExteção"
 
-- Adicionando varios arquivos de uma so vez
-
+- Adicionando varios arquivos de uma só vez
 	---
         git add .
 
-usando o comando git add seguido de um ponto todos os arquivos
-da pasta atual serão adicionados ao controle de versão;
+Usando o comando git add seguido de um ponto todos os arquivos da pasta atual serão adicionados ao controle de versão;
+
+- Criando a primeira versão - Criando commits
+	---
+        git commit -m "commit inicial"
+
+- Configurando email na primeira inicialização coloque o email da sua conta do github no comando abaixo e nome de usuario entre aspas duplas.
+
+    ---
+	    git config --global user.email "email.exemplo@email.com"
+    ---
+	    git config --global user.name "nome-de-usuarios-github"
+    ---
+	    git commit -m "commit inicial"	
+
+ O nome commit inicial é uma frase que pode ser subistituido por 
+ qualquer outra, serve apenas para identificar a versão.
+
+ - Enviar arquivos para a nuvem, github.
+    ---
+	    git push
