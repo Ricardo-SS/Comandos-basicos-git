@@ -1,14 +1,12 @@
 # codigos-de-git-teste
-Esse repositorio esta sendo usado para testar funcionalidades do git e github.
+Este repositório está sendo usado para testar funcionalidades do Git e GitHub. Aqui não será usado para nada mais que treinamento e testes de comandos remotos. No arquivo txt tem uma lista de comandos básicos do Git que podem ser muito úteis para quem está começando. Ignore os erros de português no arquivo, pois escrevi quando estava treinando os comandos e não tive tempo de revisar. Ajuda para melhorias e sugestões são bem-vindas.
 
-aqui não será usado para nada mais que treinamento e testes de comandos remotos.
-
-No arquivo txt tem uma lista de comando basicos do git que podem ser muito úteis para quem está começando.
-
-Ignorem os erros de português no arquivo pois escrevi quando estava treinando os comando e nao tive tempo de revisar.
-
-ajuda de melhorias  e sujestões são bem vindas. 
-
+## Dicas
+git init: inicializa um novo repositório Git e começa a rastrear um diretório existente.
+git clone: cria uma cópia local de um projeto que já existe remotamente.
+git add: adiciona uma mudança.
+git commit: salva o instantâneo no histórico do projeto e conclui o processo de rastreamento de mudanças.
+git status: mostra o status das mudanças como não rastreadas, modificadas ou preparadas.
 
 #    COMANDOS GIT:
 
@@ -57,3 +55,6 @@ Usando o comando git add seguido de um ponto todos os arquivos da pasta atual se
  - Enviar arquivos para a nuvem, github.
     ---
 	    git push
+
+
+Aqui temos um [link](https://www.hostinger.com/tutorials/basic-git-commands) de referências com alguns comandos.
