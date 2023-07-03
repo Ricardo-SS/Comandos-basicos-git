@@ -88,9 +88,9 @@ serão enviado para o github.
 - Voltar para versão anterior (downgrade) localmente
 
 
-	git reset --heard coloque-aqui-o-id-da-versão
+	git reset --hard coloque-aqui-o-id-da-versão
 
-	exemplo: git reset --heard 98bf327
+	exemplo: git reset --hard 98bf327
 
 - Para voltar para a versão mais atual novamente basta executar 
 os comandos.
